@@ -1,0 +1,3 @@
+[submodule "lab2_sub"]
+	path = lab2_sub
+	url = https://github.com/cchchchh/Lab2
